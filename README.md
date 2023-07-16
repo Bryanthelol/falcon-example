@@ -1,6 +1,8 @@
-# falcon-example
+# falcon-wsgi-example
 
 学习 Python 的 Web 框架 Falcon
+
+WSGI 协议
 
 ## 安装依赖
 
